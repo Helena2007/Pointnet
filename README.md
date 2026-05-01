@@ -1,5 +1,4 @@
 ## PointNet: *Deep Learning on Point Sets for 3D Classification and Segmentation*
-target="_blank">Kaichun Mo</a>, <a href="http://geometry.stanford.edu/member/guibas/" target="_blank">Leonidas J. Guibas</a> from Stanford University.
 
 ![prediction example](https://github.com/charlesq34/pointnet/blob/master/doc/teaser.png)
 
