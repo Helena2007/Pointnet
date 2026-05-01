@@ -1,4 +1,9 @@
 ## PointNet: *Deep Learning on Point Sets for 3D Classification and Segmentation*
+This repository is based on the original implementation from:https://github.com/charlesq34/pointnet
+
+All credit goes to the original authors.
+
+This version is maintained for study and experimentation purposes.
 
 ![prediction example](https://github.com/charlesq34/pointnet/blob/master/doc/teaser.png)
 
