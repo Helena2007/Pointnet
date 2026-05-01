@@ -56,7 +56,7 @@ Then you can run `train.py` and `test.py` in the `part_seg` folder for training 
 Code is released under MIT License (see LICENSE file for details).
 
 ### Citation
-If you find our work useful in your research, please consider citing:
+If you find the work useful in your research, please consider citing:
 
 	@article{qi2016pointnet,
 	  title={PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation},
